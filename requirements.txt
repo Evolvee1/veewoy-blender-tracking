@@ -1,0 +1,3 @@
+# Top-level requirements for Blender add-on
+# Note: Blender uses its own Python environment. Install these via Blender's Python or system Python as needed.
+# bpy 

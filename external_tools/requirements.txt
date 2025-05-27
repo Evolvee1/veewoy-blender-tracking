@@ -1,0 +1,7 @@
+# Requirements for external_tools scripts
+mediapipe
+opencv-python
+openai-whisper
+torch
+numpy
+gentle 
